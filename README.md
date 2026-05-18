@@ -6,7 +6,6 @@
 
 An end-to-end bioinformatics pipeline that predicts the evolutionary success of novel viral variants by mathematically isolating epistatic drivers from genetic hitchhikers. 
 
-**[Read the bioRxiv Pre-Print](#)** *(Insert your DOI link here later)*
 
 ## Project Overview
 While traditional epidemiology relies on lagging indicators like hospitalizations or wastewater data, this project uses the viral genetic code itself as a leading indicator. By evaluating over 16 million global SARS-CoV-2 genomic sequences, this system utilizes a multivariate Bayesian Generalized Linear Model (GLM) to extract the true selection coefficients ($\boldsymbol{\theta}$) of specific mutations.
