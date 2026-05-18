@@ -1,7 +1,10 @@
 # Ignore massive data files
 *.tsv
 *.tsv.gz
-*.csv
+metadata.tsv.gz
+
+# Exclude the dashboard code (keeping it private for now)
+app.py
 
 # Ignore Mac system files
 .DS_Store
@@ -10,5 +13,3 @@
 __pycache__/
 *.pyc
 .env
-venv/
-env/
