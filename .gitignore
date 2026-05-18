@@ -1,0 +1,14 @@
+# Ignore massive data files
+*.tsv
+*.tsv.gz
+*.csv
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache and environments
+__pycache__/
+*.pyc
+.env
+venv/
+env/
